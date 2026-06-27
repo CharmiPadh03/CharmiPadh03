@@ -1,9 +1,9 @@
 <!-- ============================== HERO BANNER ============================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:70a5fd,100:bf91f3&height=230&section=header&text=Charmi%20Padh&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%2FML%20Developer%20%C2%B7%20Researcher%20%C2%B7%202x%20Published%20Author&descAlignY=62&descSize=20&animation=fadeIn" alt="banner"/>
+# Charmi Padh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=720&lines=Computer+Engineering+Undergraduate;AI%2FML+Developer+%26+Researcher;Turning+Research+into+Deployable+AI)](https://github.com/CharmiPadh03)
+### AI/ML Developer · Researcher · 2x Published Author
 
 <a href="https://charmipadh.me"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefox&logoColor=70a5fd" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/charmi-padh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
