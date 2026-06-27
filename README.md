@@ -51,34 +51,15 @@
 
 <div align="center">
 
-**AI / ML & Research**
+**AI / ML · Backend · Frontend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,nodejs,express,react,vite,ts,js,tailwind,html,css&theme=dark&perline=15" alt="ai/ml backend frontend"/>
 
-**Backend · Frontend · Languages**
+**Languages · Data · DevOps**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,c,java,mysql,postgres,git,github,postman&theme=dark&perline=15" alt="languages data devops"/>
 
-**Data & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<sub>Also: NumPy · Pandas · Keras · Power BI</sub>
 
 </div>
 
@@ -147,8 +128,6 @@
 <!-- ============================== FOOTER ============================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CharmiPadh03/CharmiPadh03/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="footer"/>
 
 </div>
