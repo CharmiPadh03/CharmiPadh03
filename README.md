@@ -88,28 +88,52 @@
 
 <div align="center"><b>2 Published · 2 Accepted · 2 Under Review</b></div>
 
-| Status | Venue | Paper |
-|:------:|:------|:------|
-| `Published` | IEEE Xplore (AIMV 2025) | **TrafficEye** — Intelligent Traffic Optimization (YOLOv5s · 71% acc · 1.4 ms) |
-| `Published` | Springer (Studies in Comp. Intelligence) | **Quantum Simulation Tools** — Survey of Qiskit · Azure Quantum · Cirq |
-| `Accepted` | ICCI 2026 | **SecurePark** — Real-Time Edge AI & IoT Vehicle Parking Ecosystem |
-| `Accepted` | ICCI 2026 | **SecureSamvaad** — Multimodal Fusion for Telecom Fraud Detection |
-| `In Review` | MDPI — Multimedia Tools & Applications | Face-Swapping Deepfake Detection — Survey & Case Analysis |
-| `In Review` | Elsevier — Computational Toxicology | **PharmaADR-AI** — Explainable Ensemble ML for Opioid ADR |
+![Published](https://img.shields.io/badge/Published-238636?style=flat-square) &nbsp;**TrafficEye** — Intelligent Traffic Optimization &nbsp;·&nbsp; *IEEE Xplore (AIMV 2025)*
+> YOLOv5s-based adaptive traffic signal control — 71% accuracy, 1.4 ms inference.
+
+![Published](https://img.shields.io/badge/Published-238636?style=flat-square) &nbsp;**Quantum Simulation Tools** — A Comprehensive Survey &nbsp;·&nbsp; *Springer (Studies in Comp. Intelligence)*
+> Evaluation of Qiskit, Azure Quantum, and Cirq across architecture & performance.
+
+![Accepted](https://img.shields.io/badge/Accepted-1f6feb?style=flat-square) &nbsp;**SecurePark** — Edge AI & IoT Vehicle Parking Ecosystem &nbsp;·&nbsp; *ICCI 2026*
+> Real-time edge-AI + IoT system for vehicle detection and parking optimization.
+
+![Accepted](https://img.shields.io/badge/Accepted-1f6feb?style=flat-square) &nbsp;**SecureSamvaad** — Multimodal Fusion for Telecom Fraud &nbsp;·&nbsp; *ICCI 2026*
+> Fuses audio, text, and metadata for real-time telecom fraud detection.
+
+![In Review](https://img.shields.io/badge/In_Review-9e6a03?style=flat-square) &nbsp;**Face-Swapping Deepfake Detection** — Survey & Case Analysis &nbsp;·&nbsp; *MDPI — Multimedia Tools & Applications*
+> Case-based evaluation of deepfake detection models and their practical gaps.
+
+![In Review](https://img.shields.io/badge/In_Review-9e6a03?style=flat-square) &nbsp;**PharmaADR-AI** — Explainable Ensemble ML &nbsp;·&nbsp; *Elsevier — Computational Toxicology*
+> Pharmacovigilance-driven framework for opioid adverse drug reaction prediction.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
 <!-- ============================== PROJECTS ============================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:70a5fd&height=44&section=header&text=Featured%20Projects&fontColor=ffffff&fontSize=24&fontAlignY=58&align=left&x=25" alt="Projects"/>
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **Intelligent Traffic Optimization** | Real-time traffic monitoring web app — 71% acc, 1.4 ms inference (IITM-HeTra) | `FastAPI` `React` `YOLOv5s` |
-| **Prompt-Injection-Prevention** | Hybrid LLM safety system — rule filters + ViT classifier, 98.32% acc | `ViT` `PyTorch` |
-| **VoiceScript Studio** | AI voice-to-content platform — transcription + Drive integration | `FastAPI` `React` |
-| **ParkVue** | Parking-hotspot prediction + congestion mitigation — H3 indexing, 0.68 precision | `ML` `H3` `XAI` |
-| **Entropy** | Real-time fraud detection pipeline — 4th runner-up / 185 teams | `XGBoost` `LSTM` |
-| **PortOS** | Portfolio OS — admin dashboard + secure REST APIs | `Node.js` `React` |
+**▹ Intelligent Traffic Optimization**
+Real-time traffic monitoring web app — 71% detection accuracy, 1.4 ms inference on IITM-HeTra.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![YOLOv5s](https://img.shields.io/badge/YOLOv5s-111111?style=flat-square)
+
+**▹ Prompt-Injection-Prevention**
+Hybrid LLM safety system — rule-based filters + Vision Transformer classifier, 98.32% accuracy.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ViT](https://img.shields.io/badge/ViT-5C3EE8?style=flat-square)
+
+**▹ VoiceScript Studio**
+AI voice-to-content platform — transcription + Google Drive integration pipelines.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+
+**▹ ParkVue**
+Parking-hotspot prediction + congestion mitigation — Uber H3 indexing, 0.68 precision, XAI.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Uber H3](https://img.shields.io/badge/Uber_H3-000000?style=flat-square&logo=uber&logoColor=white) ![XAI](https://img.shields.io/badge/XAI-9e6a03?style=flat-square)
+
+**▹ Entropy**
+Real-time fraud detection pipeline — 4th runner-up out of 185 teams.
+![XGBoost](https://img.shields.io/badge/XGBoost-1f6feb?style=flat-square) ![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square)
+
+**▹ PortOS**
+Portfolio OS — admin dashboard + secure REST APIs for content management.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
 
