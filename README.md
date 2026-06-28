@@ -48,24 +48,24 @@ Computer Engineering undergraduate building real-time intelligent systems and sc
 
 ## Research & Publications
 
-`2 Published` · `2 Accepted` · `2 Under Review`
+![Published](https://img.shields.io/badge/Published-2-238636?style=flat-square) ![Accepted](https://img.shields.io/badge/Accepted-2-1f6feb?style=flat-square) ![Under Review](https://img.shields.io/badge/Under%20Review-2-9e6a03?style=flat-square)
 
-**TrafficEye — Intelligent Traffic Optimization using Deep Learning** · *IEEE Xplore, AIMV 2025* · `Published`
+**TrafficEye — Intelligent Traffic Optimization using Deep Learning** · *IEEE Xplore, AIMV 2025* · ![Published](https://img.shields.io/badge/Published-238636?style=flat-square)
 YOLOv5s-based adaptive traffic signal control — 71% accuracy, 1.4 ms inference.
 
-**Quantum Simulation Tools: A Comprehensive Survey** · *Springer, Studies in Computational Intelligence* · `Published`
+**Quantum Simulation Tools: A Comprehensive Survey** · *Springer, Studies in Computational Intelligence* · ![Published](https://img.shields.io/badge/Published-238636?style=flat-square)
 Evaluation of Qiskit, Azure Quantum, and Cirq across architecture, performance, and limitations.
 
-**SecurePark — Real-Time Edge AI and IoT Vehicle Parking Ecosystem** · *ICCI 2026* · `Accepted`
+**SecurePark — Real-Time Edge AI and IoT Vehicle Parking Ecosystem** · *ICCI 2026* · ![Accepted](https://img.shields.io/badge/Accepted-1f6feb?style=flat-square)
 Real-time edge-AI and IoT system for vehicle detection, space utilization, and traffic optimization.
 
-**SecureSamvaad — Multimodal Fusion for Real-Time Telecom Fraud Detection** · *ICCI 2026* · `Accepted`
+**SecureSamvaad — Multimodal Fusion for Real-Time Telecom Fraud Detection** · *ICCI 2026* · ![Accepted](https://img.shields.io/badge/Accepted-1f6feb?style=flat-square)
 Multimodal framework integrating audio, text, and metadata for robust fraud detection.
 
-**Face-Swapping Deepfake Detection — Survey and Case-Based Analysis** · *MDPI, Multimedia Tools and Applications* · `Under Review`
+**Face-Swapping Deepfake Detection — Survey and Case-Based Analysis** · *MDPI, Multimedia Tools and Applications* · ![Under Review](https://img.shields.io/badge/Under%20Review-9e6a03?style=flat-square)
 Case-based evaluation of deepfake detection models, highlighting practical challenges and performance gaps.
 
-**PharmaADR-AI — Explainable Ensemble ML for Opioid ADR Prediction** · *Elsevier, Computational Toxicology* · `Under Review`
+**PharmaADR-AI — Explainable Ensemble ML for Opioid ADR Prediction** · *Elsevier, Computational Toxicology* · ![Under Review](https://img.shields.io/badge/Under%20Review-9e6a03?style=flat-square)
 Pharmacovigilance-driven ensemble framework for accurate, interpretable opioid adverse drug reaction prediction.
 
 ---
@@ -108,3 +108,5 @@ Portfolio management platform — centralized admin dashboard and secure REST AP
 ![stats](https://github-readme-stats.vercel.app/api?username=CharmiPadh03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9)
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharmiPadh03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&langs_count=8)
+
+![streak](https://streak-stats.demolab.com?user=CharmiPadh03&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd)
